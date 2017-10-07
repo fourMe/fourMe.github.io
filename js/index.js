@@ -95,7 +95,7 @@
 	// 当前时间
 	var nowTime = new Date();
 	// 目标时间
-	var furTime = new Date('Sep 30 2017 22:30:00');
+	var furTime = new Date('Oct 07 2017 23:59:00');
 
 	var timer = null;
 	// 将得到的毫秒转换成秒数
